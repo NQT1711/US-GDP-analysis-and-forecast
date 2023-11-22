@@ -1,4 +1,4 @@
-# Analyze US GDP and forecast using the ARIMA model Project
+# US GDP analysis with python and forecast using the ARIMA model Project
 
 1. Get data with Fred api
 2. Exploratory Data Analysis (EDA)
