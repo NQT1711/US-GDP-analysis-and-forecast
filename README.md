@@ -1,4 +1,4 @@
-# US GDP analysis with python and forecast using the ARIMA model Project
+# US GDP analysis with python and forecast using the time-series models Project
 Here is a short summary of this project: This project focuses on analyzing fluctuations in the US economy through GDP indicator in 2013-2022 and making forecasts using the time-series models.
 
 The project includes 6 main steps:
