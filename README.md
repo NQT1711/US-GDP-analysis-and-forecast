@@ -7,3 +7,7 @@ The project includes 6 main steps:
   3. Data preprocessing
   4. Analysis
   5. Build models and forecast
+      - Autoregressive
+      - ARMA
+      - ARIMA
+      - Auto ARIMA
